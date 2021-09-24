@@ -1,7 +1,7 @@
 import socket
 import subprocess
 
-HOST = 0.0.0.0
+HOST = "192.168.100.7"
 PORT = 4444
 SIZE = 1024
 
